@@ -2,11 +2,6 @@
 
 ###  Computer Science Engineering Student | Software Developer | DSA & Python
 
-I'm a final-year Computer Science Engineering student passionate about **Full-Stack Development, Problem Solving, and AI-powered applications**.
-
--  Pursuing B.E. in Computer Science & Engineering
--  Full-Stack Developer with experience in **MERN & PERN**
--  Solved **150+ DSA problems on LeetCode using Python**
 
 ##  Tech Stack
 
@@ -50,9 +45,9 @@ I'm a final-year Computer Science Engineering student passionate about **Full-St
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-### 📋 Project Management Platform — PERN Stack
+###  Project Management Platform — PERN Stack
 
 A full-stack project management platform designed to manage organizations, teams, tasks, and collaboration.
 
