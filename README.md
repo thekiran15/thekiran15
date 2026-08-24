@@ -55,18 +55,6 @@ I'm a final-year Computer Science Engineering student passionate about **Full-St
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/AnBN0I2RZF/)
 
-**150+ DSA Problems Solved in Python**
-
-My main areas of practice include:
-
-- Arrays
-- Strings
-- Hash Tables
-- Two Pointers
-- Dynamic Programming
-- Backtracking
-- Greedy
-- Mathematics
 
 ### 🔹 GitHub
 
@@ -195,4 +183,4 @@ https://chatbotai-99.vercel.app
 
 **Feel free to explore my repositories and projects.**
 
-💻 Keep Learning • 🚀 Keep Building • 🧠 Keep Solving
+💻 Keep Learning • 🚀 Keep Building
