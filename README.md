@@ -36,7 +36,7 @@
 
 ### 🔹 LeetCode
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/AnBN0I2RZF/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/thekiran15/)
 
 
 ### 🔹 GitHub
@@ -72,7 +72,7 @@ https://chatbotai-99.vercel.app
 
 ###  LeetCode
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-AnBN0I2RZF-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/AnBN0I2RZF/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-thekiran15-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/thekiran15/)
 
 
 ### 📧 Email
