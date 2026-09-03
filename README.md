@@ -52,7 +52,7 @@
 A full-stack project management platform designed to manage organizations, teams, tasks, and collaboration.
 
  **Live Demo:**  
-<!-- https://project-management99.vercel.app -->
+https://project-management99.vercel.app
 
 ---
 
@@ -61,7 +61,7 @@ A full-stack project management platform designed to manage organizations, teams
 A full-stack AI application that provides AI-powered text and image generation with a credit-based usage system.
 
  **Live Demo:**  
-<!-- https://chatbotai-99.vercel.app -->
+https://chatbotai-99.vercel.app
 
 
 ## 🤝 Connect With Me
