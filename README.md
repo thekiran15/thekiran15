@@ -78,11 +78,3 @@ https://chatbotai-99.vercel.app
 ### 📧 Email
 
 **thekiran15@gmail.com**
-
----
-
-## ⭐ Thanks for visiting my profile!
-
-**Feel free to explore my repositories and projects.**
-
-💻 Keep Learning • 🚀 Keep Building
